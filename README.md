@@ -1,154 +1,61 @@
 <div align="center">
 
-# Hi 👋 I'm Bhuvan S M
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="42%">
+
+<img src="./assets/avatar.png" width="320"/>
+
+</td>
+
+<td align="center" width="58%">
+
+<img src="./assets/terminal.png" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+# Bhuvan S M
 
 ### AI Developer • Data Analyst • Full Stack Developer
 
-Building AI products that solve real-world problems.
+Building intelligent AI solutions and data-driven applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Data+Analyst;Full+Stack+Developer;Python+%7C+SQL+%7C+React;Building+Lumora+AI"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 BE Computer Science (Data Science)
-- 📍 Bangalore, India
-- 🚀 Building **Lumora AI**
-- 📊 Passionate about AI & Data Analytics
-- 🌱 Currently learning LLMs & System Design
-- 💼 Looking for AI / Data Analytics / SDE Internships
-
----
-
-# 🍎 Terminal
-
-```text
-╭──────────────────────────────────────────────╮
-│ 🔴 🟡 🟢  Dev-bhuvan19 — zsh                 │
-├──────────────────────────────────────────────┤
-
-$ whoami
-
-Bhuvan S M
-
-$ role
-
-AI Developer
-Data Analyst
-Full Stack Developer
-
-$ languages
-
-Python
-SQL
-Java
-JavaScript
-
-$ frameworks
-
-React
-Node.js
-FastAPI
-
-$ databases
-
-MySQL
-MongoDB
-
-$ cloud
-
-Supabase
-Render
-Vercel
-
-$ current_project
-
-Lumora AI 🚀
-
-$ status
-
-Open to Internship
-
-█
-```
-
----
-
-# ⚡ Tech Stack
+<br>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,typescript,mysql,mongodb,fastapi,docker,git,github,vscode"/>
+<a href="https://github.com/Dev-bhuvan19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Lumora AI
-
-AI Workspace powered by modern LLMs.
-
----
-
-### 📊 HR Analytics Dashboard
-
-Power BI • SQL • Python
-
----
-
-### 📈 Stock Market Dashboard
-
-Power BI • DAX
-
----
-
-### 🌐 Vihani Connect Premium
-
-React • Supabase
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-bhuvan19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-bhuvan19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dev-bhuvan19&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
+&nbsp;
 
 <a href="https://www.linkedin.com/in/bhuvan-sm">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:bhuvansm69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+&nbsp;
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:bhuvansm69.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-> *"Building technology that solves real-world problems."*
 
 </div>
