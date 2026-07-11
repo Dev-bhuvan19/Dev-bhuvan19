@@ -1,72 +1,119 @@
-<h1 align="center">Hi 👋, I'm Bhuvan S M</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Data Analyst • AI Developer • Software Engineer
-</h3>
+# Hi 👋 I'm Bhuvan S M
 
-<p align="center">
-Building intelligent products with AI, Data Analytics and Full Stack Development.
-</p>
+### AI Developer • Data Analyst • Full Stack Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+Developer;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI;Currently+Building+Lumora+AI" />
-</p>
+Building AI products that solve real-world problems.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Data+Analyst;Full+Stack+Developer;Python+%7C+SQL+%7C+React;Building+Lumora+AI"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 BE Computer Science (Data Science)
 - 📍 Bangalore, India
 - 🚀 Building **Lumora AI**
-- 📊 Passionate about Data Analytics, AI & Full Stack Development
-- 🌱 Currently learning Machine Learning, LLMs & System Design
-- 💼 Looking for Data Analytics / AI / Software Development internships
+- 📊 Passionate about AI & Data Analytics
+- 🌱 Currently learning LLMs & System Design
+- 💼 Looking for AI / Data Analytics / SDE Internships
 
 ---
 
-## 💻 Terminal
+# 🍎 Terminal
 
 ```text
-> whoami
+╭──────────────────────────────────────────────╮
+│ 🔴 🟡 🟢  Dev-bhuvan19 — zsh                 │
+├──────────────────────────────────────────────┤
 
-Name      : Bhuvan S M
-Role      : AI Developer & Data Analyst
+$ whoami
 
-Languages :
+Bhuvan S M
+
+$ role
+
+AI Developer
+Data Analyst
+Full Stack Developer
+
+$ languages
+
 Python
 SQL
 Java
 JavaScript
 
-Frontend :
+$ frameworks
+
 React
-TypeScript
-
-Backend :
+Node.js
 FastAPI
-NodeJS
 
-Database :
+$ databases
+
 MySQL
 MongoDB
 
-Cloud :
-Render
+$ cloud
+
 Supabase
+Render
 Vercel
 
-Current Mission :
-Building Lumora AI 🚀
+$ current_project
+
+Lumora AI 🚀
+
+$ status
+
+Open to Internship
+
+█
 ```
 
-## ⚡ Tech Stack
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,javascript,react,nodejs,ts,git,github,docker,vscode,fastapi,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,typescript,mysql,mongodb,fastapi,docker,git,github,vscode"/>
+
 </p>
 
-## 📈 GitHub Stats
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Lumora AI
+
+AI Workspace powered by modern LLMs.
+
+---
+
+### 📊 HR Analytics Dashboard
+
+Power BI • SQL • Python
+
+---
+
+### 📈 Stock Market Dashboard
+
+Power BI • DAX
+
+---
+
+### 🌐 Vihani Connect Premium
+
+React • Supabase
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -81,3 +128,27 @@ Building Lumora AI 🚀
 <img src="https://streak-stats.demolab.com?user=Dev-bhuvan19&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bhuvan-sm">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bhuvansm69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> *"Building technology that solves real-world problems."*
+
+</div>
