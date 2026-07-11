@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhuvan S M</h1>
 
-<!--
-**Dev-bhuvan19/Dev-bhuvan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Analyst • AI Developer • Software Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent products with AI, Data Analytics and Full Stack Development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+Developer;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI;Currently+Building+Lumora+AI" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BE Computer Science (Data Science)
+- 📍 Bangalore, India
+- 🚀 Building **Lumora AI**
+- 📊 Passionate about Data Analytics, AI & Full Stack Development
+- 🌱 Currently learning Machine Learning, LLMs & System Design
+- 💼 Looking for Data Analytics / AI / Software Development internships
+
+---
+
+## 💻 Terminal
+
+```text
+> whoami
+
+Name      : Bhuvan S M
+Role      : AI Developer & Data Analyst
+
+Languages :
+Python
+SQL
+Java
+JavaScript
+
+Frontend :
+React
+TypeScript
+
+Backend :
+FastAPI
+NodeJS
+
+Database :
+MySQL
+MongoDB
+
+Cloud :
+Render
+Supabase
+Vercel
+
+Current Mission :
+Building Lumora AI 🚀
+```
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,java,javascript,react,nodejs,ts,git,github,docker,vscode,fastapi,mongodb" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvansm69-crypto&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvansm69-crypto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhuvansm69-crypto&theme=tokyonight&hide_border=true"/>
+
+</p>
